@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2651-calculate-delayed-arrival-time](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2651-calculate-delayed-arrival-time) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
