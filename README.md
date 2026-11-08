@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2651-calculate-delayed-arrival-time) |
 ## Tree
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2236-root-equals-sum-of-children) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
