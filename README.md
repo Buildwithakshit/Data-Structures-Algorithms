@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2651-calculate-delayed-arrival-time) |
 ## Tree
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/0771-jewels-and-stones) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
