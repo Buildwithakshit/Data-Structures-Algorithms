@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2651-calculate-delayed-arrival-time) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Buildwithakshit/Data-Structures-Algorithms/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Tree
 |  |
 | ------- |
